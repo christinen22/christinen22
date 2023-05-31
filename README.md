@@ -2,7 +2,7 @@ Hi there 👋
 
 
 
-- 🔭 I’m currently working on: Being a netninja
+- 🔭 I’m currently working on: Becoming a netninja
 - 🌱 I’m currently learning: React
 - 💬 Ask me about: Knitting?
 - 📫 How to reach me: Linkedin https://www.linkedin.com/in/christine-nilsson-82536267/
